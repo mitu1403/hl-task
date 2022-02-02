@@ -374,7 +374,7 @@ img {
 /* For large devices */
 @media screen and (min-width: 968px) {
   body {
-    margin: 1rem 0;
+    margin: 0.2rem 0;
   }
   .bd-container {
     margin-left: auto;

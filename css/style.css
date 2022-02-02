@@ -273,7 +273,7 @@ img {
 }
 .education__year,
 .experience__description,
-.certificate__description {
+.project__description {
   font-size: var(--smaller-font-size);
 }
 
@@ -302,7 +302,7 @@ img {
 }
 
 /* CERTIFICATES */
-.certificate__title {
+.project__title {
   font-size: var(--h3-font-size);
   margin-bottom: var(--mb-1);
 }

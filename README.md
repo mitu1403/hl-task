@@ -1,5 +1,5 @@
 # hl-task
 
-### Responsive Resume 
+### Responsive Resume CV Design
 
 ![Resume cv](/preview.png)
